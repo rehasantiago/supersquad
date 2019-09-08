@@ -1,2 +1,2 @@
 # supersquad
-A simple superheroes application in React and Redu
+A simple superheroes application in React and Redux
